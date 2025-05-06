@@ -25,7 +25,7 @@ module.exports = { sendMessageToGeminiAI };
 /*-----------------------------------------------------------------------------------------*/
 // const { GoogleGenerativeAI } = require("@google/generative-ai");
 
-// const genAI = new GoogleGenerativeAI("AIzaSyCqKMtKIKxvKI_PLdnEyRkZjInV19H_R0A");
+
 // const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
 // const prompt = "Explain how AI works";
